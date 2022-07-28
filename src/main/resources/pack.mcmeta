@@ -16,6 +16,10 @@
       "name": "French",
       "region": "France"
     },
+    "lc_LC":{
+      "name": "LOLCAT",
+      "region": "Kingdom Of Cats"
+    },
     "it_IT":{
       "name": "Italian",
       "region": "Italy"
